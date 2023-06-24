@@ -64,6 +64,7 @@
   ![Return1](https://github.com/combinator-cs/LibraryManageApp/assets/47257439/f549f734-2ed2-4a0b-86e8-2c2a9d2dec82)
   \
   \
-  ![Return2](https://github.com/combinator-cs/LibraryManageApp/assets/47257439/06e8524a-4fbd-4010-a9ec-3fa81af8a3cb)
+  ![Return2](https://github.com/combinator-cs/LibraryManageApp/assets/47257439/21a0bf8b-698f-4834-bba7-fe4f6779b65a)
+
 
 
