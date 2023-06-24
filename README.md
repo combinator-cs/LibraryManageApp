@@ -32,7 +32,14 @@
   \
   \
   \
-  **3. Manage Members Page(to Add, Search, Update or Delete Members):**
+  **3. Fetch and Store Books:**
+  \
+  \
+  ![Books4](https://github.com/combinator-cs/LibraryManageApp/assets/47257439/9f9ea219-da70-4ff9-9e00-78f777a23ebd)
+  \
+  \
+  \
+  **4. Manage Members Page(to Add, Search, Update or Delete Members):**
   \
   \
     ![Members1](https://github.com/combinator-cs/LibraryManageApp/assets/47257439/2f907e89-daf8-49de-909b-dcfcb05bc269)
@@ -41,7 +48,7 @@
   \
   \
   \
-  **4. Issue Books:**
+  **5. Issue Books:**
   \
   \
     ![Issue1](https://github.com/combinator-cs/LibraryManageApp/assets/47257439/0f403280-b62c-4450-9911-72f95db12174)
@@ -51,7 +58,7 @@
   \
   \
   \
-  **5. Return Books:**
+  **6. Return Books:**
   \
   \
   ![Return1](https://github.com/combinator-cs/LibraryManageApp/assets/47257439/f549f734-2ed2-4a0b-86e8-2c2a9d2dec82)
