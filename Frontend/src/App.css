@@ -1,0 +1,153 @@
+h3 {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  margin: 0px;
+  font-weight: 100;
+  font-size: 30px;
+  color: #174bb2;
+  -webkit-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+}
+
+h5 {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  margin: 0px;
+  margin-left: 10px;
+  margin-top: 30px;
+  margin-bottom: 5px;
+  font-weight: 700;
+  font-size: 22px;
+  color: #174bb2;
+  -webkit-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+  cursor: pointer;
+  display: inline;
+}
+
+h4 {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  margin: 0px;
+  margin-left: 10px;
+  margin-top: 30px;
+  margin-bottom: 5px;
+  font-weight: 100;
+  font-size: 22px;
+  color: #000;
+  -webkit-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+  cursor: pointer;
+  display: inline;
+}
+
+.swal2-container {
+  z-index: 20000 !important;
+}
+
+#customForm {
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  background-color: #fcfcfc;
+  padding: 20px 30px 30px;
+  box-shadow: 1px 4px 10px 1px #aaa;
+  font-family: sans-serif;
+}
+
+#customForm * {
+  box-sizing: border-box;
+}
+
+#customForm h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#customForm input {
+  margin-bottom: 15px;
+}
+
+#customForm input {
+  display: block;
+  height: 40px;
+  padding: 6px 16px;
+  width: 100%;
+  border: none;
+  font-size: 1em;
+  background-color: #f3f3f3;
+}
+
+#customForm label {
+  color: #777;
+  font-size: 1em;
+}
+
+#customForm input[type=submit] {
+  display: block;
+  cursor: pointer;
+  margin: 20px auto 0;
+  width: 200px;
+  height: 35px;
+  border-radius: 12px;
+  border: none;
+  color: #000;
+  font-weight: 600;
+  box-shadow: 1px 4px 10px 1px #aaa;
+
+  background: -moz-linear-gradient(left, #a9d6e4 0%, #86bade 100%);
+  background: -webkit-linear-gradient(left, #a9d6e4 0%, #86bade 100%);
+  background: linear-gradient(to right, #a9d6e4 0%, #86bade 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#207cca', endColorstr='#9f58a3', GradientType=1);
+}
+
+#customForm button {
+  display: block;
+  cursor: pointer;
+  margin: 20px auto 0;
+  width: 200px;
+  height: 35px;
+  border-radius: 12px;
+  border: none;
+  color: #000;
+  font-weight: 600;
+  box-shadow: 1px 4px 10px 1px #aaa;
+
+  background: -moz-linear-gradient(left, #a9d6e4 0%, #86bade 100%);
+  background: -webkit-linear-gradient(left, #a9d6e4 0%, #86bade 100%);
+  background: linear-gradient(to right, #a9d6e4 0%, #86bade 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#207cca', endColorstr='#9f58a3', GradientType=1);
+}
+
+.customTable {
+  border: solid 3px #044582;
+  border-collapse: collapse;
+  border-spacing: 0;
+  font: normal 13px Arial, sans-serif;
+  font-size: 1em;
+  text-align: center;
+  width: 100%;
+}
+
+.customTable thead th {
+  background-color: #a6ccef;
+  border: solid 2px #044582;
+  color: #042d7a;
+  padding: 10px;
+  text-shadow: 1px 1px 1px #fff;
+}
+
+.customTable tbody td {
+  border: solid 2px #044582;
+  color: #333;
+  padding: 10px;
+  text-shadow: 1px 1px 1px #fff;
+}
+
+Link {
+  color: #000000;
+  text-decoration: none;
+}
