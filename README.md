@@ -32,7 +32,7 @@
   \
   \
   \
-  **3. Fetch and Store Books:**
+  **3. Fetch and Store Books from FRAPPE Books API:**
   \
   \
   ![Books4](https://github.com/combinator-cs/LibraryManageApp/assets/47257439/9f9ea219-da70-4ff9-9e00-78f777a23ebd)
@@ -65,6 +65,7 @@
   \
   \
   ![Return2](https://github.com/combinator-cs/LibraryManageApp/assets/47257439/21a0bf8b-698f-4834-bba7-fe4f6779b65a)
-
-
-
+\
+\
+\
+Created as Part of Assignment for FRAPPE(https://frappe.io/)
